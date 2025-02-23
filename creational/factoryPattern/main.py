@@ -1,6 +1,6 @@
-from factoryPattern.EnglishFactory import EnglishFactory
-from factoryPattern.FrenchFactory import FrenchFactory
-from factoryPattern.SpanishFactory import SpanishFactory
+from creational.factoryPattern.EnglishFactory import EnglishFactory
+from creational.factoryPattern.FrenchFactory import FrenchFactory
+from creational.factoryPattern.SpanishFactory import SpanishFactory
 
 
 def main():
